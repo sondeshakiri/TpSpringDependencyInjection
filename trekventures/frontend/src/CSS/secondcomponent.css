@@ -1,0 +1,43 @@
+.search-bar {
+  background-color: #f2f2f2;
+  padding: 10px;
+  position: absolute;
+  border-radius: 10px;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-top: -60px;
+ 
+  
+  
+}
+
+.search-bar form {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar input[type="text"],
+.search-bar input[type="number"],
+.search-bar input[type="date"] {
+  height: 10px;
+  padding: 10px;
+  border: 1px  solid #FF6C00;
+  border-radius: 4px;
+  font-size: 16px;
+
+}
+.search-bar input[type="date"] {
+  height: 25px;
+}
+.search-bar form button{
+  margin-left: 0px;
+  background-color: #FF6C00;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.special-offer{
+    margin-top: 40px;
+    
+}
+.special-offer h5{
+    color: #013063;
+margin-left: 50%;
+    font-size: 16px;
+  
+    font-family: 'Great Vibes', cursive;
+}
+.special-offer h1{
+    color: rgb(22, 22, 22);
+    font-family: 'Edu SA Beginner', cursive;
+     margin-left: 40%;
+   
+    
+
+}
+.signin{
+    margin-top: 3%;
+    height: 250px;
+    width: 250px;
+    margin-left: 25%;
+    
+    border-radius: 20%;
+}
+.justified{
+    display: flex;
+}
+.autre{
+    margin-top: 4%;
+    
+    
+}

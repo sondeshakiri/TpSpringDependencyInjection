@@ -1,0 +1,118 @@
+.componentcontainer {
+    display: flex;
+    padding-left: 250px;
+    background-color: #f0f0f0;
+    padding-right: 20px;
+  }
+ 
+  .infotext{
+    margin-top: -20px;
+  }
+  
+ #im{
+    margin-top: 30px;
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+ }
+  .info{
+    
+   
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    margin-top: 70px;
+    margin-bottom: -25%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding-right: 60px;
+    display: flex;
+    text-decoration: none;
+  }
+
+
+
+ 
+ 
+  .contactform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    
+
+  }
+  
+
+
+  .contact {
+    max-width: 900px;
+    padding: 80px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 400px;
+  }
+  
+  .contact h2 {
+    margin-top: 0%;
+    margin-bottom: 20px;
+ 
+
+    font-size:30px;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form input {
+
+    
+    
+    
+    border-radius: 50px;
+  }
+  
+  .contactform Button {
+    background-color:  #FF6C00;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+  
+  .form button:hover {
+    background-color: #0056b3;
+  }
+  
+
+
+
+.Firstform {
+    display: flex;
+  }
+  
+  .form {
+    margin-right: 50px; /* Ajustez la valeur de la marge selon l'espace souhaité entre les champs */
+  }
+  
+  /* Ajouter de l'espace vertical entre les champs */
+  .form input[type="text"],
+  .form input[type="number"],
+  .form input[type="email"] {
+    padding: 20px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px; /* Ajustez la valeur pour l'espace vertical */
+  }
+  
+  .form input[type="email"] {
+    padding: 20px 10px;
+    border: 1px solid #ccc;
+   width:125px
+  }

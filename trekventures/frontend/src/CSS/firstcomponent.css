@@ -1,0 +1,36 @@
+.image2 {
+    
+  top: 0px; /* Ajustez ces valeurs pour placer l'image 2 correctement */
+  height: 500px;
+  width: 1320px;
+ 
+}
+
+.overlay {
+ 
+  position: absolute;
+  top: 160px;
+  left: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black; /* Couleur du texte et du bouton */
+  
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+  
+}
+
+.overlay button {
+  background-color: #013063;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 0px;
+}

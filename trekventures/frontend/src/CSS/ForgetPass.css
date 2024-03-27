@@ -1,0 +1,17 @@
+.forgetpass{
+    text-align: center;
+   
+    margin:10%;
+    
+}
+.emailEnter{
+   
+    display: flex;
+    flex-direction: column;
+    margin: 30%;
+    margin-top: 5%;
+}
+input{
+    margin-bottom: 2%;
+    height: 30px;
+}

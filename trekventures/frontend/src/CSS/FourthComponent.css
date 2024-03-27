@@ -1,0 +1,17 @@
+.tours{
+    background-color: rgb(255, 236, 216);
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+#titre{
+    text-align: center;
+    color: #013063;
+   
+    font-family: 'Great Vibes', cursive;
+    padding-top: 5%;
+}
+#titre2{
+    text-align: center;
+    font-family: 'Edu SA Beginner', cursive;
+}

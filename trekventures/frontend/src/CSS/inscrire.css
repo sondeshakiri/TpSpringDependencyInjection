@@ -1,0 +1,78 @@
+/* SignUpPage.css */
+
+.sign-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    background-color: #f0f0f0;
+   
+  }
+  
+#icon{
+    height: 50px;
+    width: 50px;
+    margin-left: 18px;
+}
+h5{
+    margin-top: 50px;
+    color: rgb(22, 22, 22);
+    font-family: 'Edu SA Beginner', cursive;
+}
+.connect{
+    margin-left: 130px;
+    
+}
+  .sign-up-form {
+    max-width: 900px;
+    padding: 80px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+    
+  }
+  
+  .sign-up-form h2 {
+    margin-top: 0%;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #013063;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 40px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group input {
+    
+    padding: 15px;
+    width: 350px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  #email
+  {
+    padding-right: 60px;
+  }
+  
+   button {
+    background-color: #013063;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 250px;
+   
+  }
+  
+  .form-group button:hover {
+    background-color: #0056b3;
+  }
+  

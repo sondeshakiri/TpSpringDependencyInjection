@@ -1,0 +1,24 @@
+.confirm-account {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .confirm-account p {
+    font-size: 18px;
+    margin: 10px;
+  }
+  
+  .confirm-account .success {
+    color: green;
+  }
+  
+  .confirm-account .error {
+    color: red;
+  }
+  
+  /* Ajoutez plus de styles au besoin */
+  

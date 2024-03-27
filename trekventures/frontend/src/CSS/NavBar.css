@@ -1,0 +1,88 @@
+.navbar{
+    
+    display: flex;
+    align-items: 600px;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+    position: relative;
+    -webkit-box-align: center;
+    min-height: 1px;
+}
+.navbar a:hover{
+    color: #007BFF;
+}
+.navbar div{
+    margin-left: auto;
+}
+.navbar div.leftside{
+    margin-left: 0px;
+}
+.navbar div.rightside{
+    margin-top: 30px;
+}
+.navbar a{
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color: rgb(22, 22, 22);
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+#logo{
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    margin: 0px 0px 0px 1px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    text-align: center;
+    flex: 0 0 auto;
+    padding: 8px;
+    overflow: visible;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    height: 100px;
+    width: 100px;
+    
+    color: rgb(0, 127, 255);
+    border-radius: 12px;
+    
+}
+#im{
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    margin: 0px 0px 0px 1px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    text-align: center;
+    flex: 0 0 auto;
+    font-size: 1.5rem;
+    padding: 8px;
+    overflow: visible;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    height: 34px;
+    width: 34px;
+    border: 1px solid rgb(218, 226, 237);
+    color: rgb(0, 127, 255);
+    border-radius: 12px;
+}

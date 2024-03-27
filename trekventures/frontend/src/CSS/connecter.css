@@ -1,0 +1,69 @@
+/* LoginPage.css */
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .login-form {
+    max-width: 400px;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #013063;
+    font-family: 'Edu SA Beginner', cursive;
+  }
+  
+  .form-groupe {
+    margin-bottom: 30px;
+  }
+  
+  .form-groupe input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #password{
+    padding-bottom: 20px;
+  }
+  .form-groupe button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .form-groupe button:hover {
+    background-color: #0056b3;
+  }
+  
+  .form-groupe p {
+    text-align: center;
+  }
+  
+  .form-groupe p a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .form-groupe p a:hover {
+    text-decoration: underline;
+  }
+  h4{
+    color: red;
+  }

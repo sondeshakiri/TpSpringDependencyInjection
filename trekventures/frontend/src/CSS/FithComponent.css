@@ -1,0 +1,17 @@
+.containerDest{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.infoDest{
+   background-color: rgb(214, 125, 16); 
+   width: 350px;
+   height: 500px;
+}
+.list {
+    display: flex;
+    list-style-type: none;
+}
+.list ul{
+    list-style-type: none;
+}
